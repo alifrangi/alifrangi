@@ -9,7 +9,7 @@ Most of my work is in **TypeScript, Dart (Flutter), Swift, and Python**. I tend 
 | | |
 |---|---|
 | 🧠 **[Fehm](https://github.com/alifrangi/fehm-overview)** | AI study platform — Next.js 16, Supabase, OpenAI, streaming SSE |
-| 💞 **[Bonded Together](https://github.com/alifrangi/bonded-overview)** | iOS + Android couples app — Flutter, Firebase, RevenueCat. 3,000+ downloads |
+| 💞 **[Bonded Together](https://github.com/alifrangi/bonded-overview)** | iOS couples app — Flutter, Firebase, RevenueCat. 3,000+ downloads |
 | 🎟️ **[Valence Loyalty](https://github.com/alifrangi/valence-overview)** | Multi-venue loyalty platform — Apple/Google Wallet passes, Express, Firebase |
 | 🏘️ **[Dabouq Village](https://github.com/alifrangi/dabouq-overview)** | Multi-venue loyalty + gym booking — 14 venues, 5,000+ customers |
 | 🌙 **[QNM](https://github.com/alifrangi/qnm-overview)** | Qatar Night Markets iOS app — pure SwiftUI, Firebase, MapKit |
