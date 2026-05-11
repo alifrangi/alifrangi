@@ -13,7 +13,7 @@ Most of my work is in **TypeScript, Dart (Flutter), Swift, and Python**. I tend 
 | 🎟️ **[Valence Loyalty](https://github.com/alifrangi/valence-overview)** | Multi-venue loyalty platform — Apple/Google Wallet passes, Express, Firebase |
 | 🏘️ **[Dabouq Village](https://github.com/alifrangi/dabouq-overview)** | Multi-venue loyalty + gym booking — 14 venues, 5,000+ customers |
 | 🌙 **[QNM](https://github.com/alifrangi/qnm-overview)** | Qatar Night Markets iOS app — pure SwiftUI, Firebase, MapKit |
-| 🌐 **[Portfolio](https://github.com/alifrangi/myportfoliowebsite)** | [alifrangi.com](https://alifrangi.com) — Next.js 15, Tailwind, Framer Motion |
+| 🌐 **Portfolio** | [alifrangi.com](https://alifrangi.com) — Next.js 15, Tailwind, Framer Motion |
 
 The repos above are **tech overviews** of my private production projects — architecture, decisions, and what I learned. The actual application source lives in private repos because the apps are live products.
 
